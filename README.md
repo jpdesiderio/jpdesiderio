@@ -12,8 +12,8 @@ My name is <b>João Pedro Desidério</b>, but you can call me <b>JP</b>. I'm a S
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=jotapedeside" height="170" alt="My GitHub Stats"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=305&langs_count=6&theme=dracula&hide_border=false&username=jotapedeside" height="170" alt="My Languages Graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=jpdesiderio" height="170" alt="My GitHub Stats"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=305&langs_count=6&theme=dracula&hide_border=false&username=jpdesiderio" height="170" alt="My Languages Graph"  />
 
 </div>
 
